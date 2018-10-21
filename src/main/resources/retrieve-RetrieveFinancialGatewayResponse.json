@@ -1,0 +1,9 @@
+{
+  "gatewayServiceSecurityMechanismType" : "encryption keys",
+  "gatewayServiceConfigurationParameterType" : "security setting",
+  "gatewayServiceConfigurationParameter" : "high security",
+  "gatewayServiceSchedule" : {},
+  "gatewayOperatingSessionReference" : "OSR7346465",
+  "gatewayServiceReference" : "GSR746565",
+  "gatewayServiceSecurityMechanismReference" : "GSMR7365465"
+}

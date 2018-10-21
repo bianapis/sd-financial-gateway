@@ -1,0 +1,10 @@
+{
+  "gatewayInboundMessageStatus" : "pending",
+  "gatewayServiceSessionStatistics" : {},
+  "gatewayInboundMessageReceiver" : "EBU74655",
+  "gatewayInboundMessageType" : "urgent",
+  "gatewayServiceReference" : "GSR724645735",
+  "gatewayOperatingSessionReference" : "GOSR746565",
+  "gatewayInboundMessageRecord" : {},
+  "gatewayInboundMessageReference" : "GIMR7354646"
+}

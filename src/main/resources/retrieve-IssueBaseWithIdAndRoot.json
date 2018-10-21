@@ -1,0 +1,13 @@
+{
+  "messageReference" : "MSG73647458",
+  "employeeBusinessUnitReference" : "EBU736464",
+  "productionIssueType" : "network failure",
+  "productionIssueStatus" : "pending",
+  "productionIssueResolutionTask" : "Replace router hardware",
+  "productionIssueDiagnosis" : "Router failure",
+  "productionIssueRecord" : {},
+  "gatewayServiceReference" : "GSR724645735",
+  "gatewayOperatingSessionReference" : "GOSR746565",
+  "productionIssueDescription" : "productionIssueDescription",
+  "gatewayServiceIssueReference" : "GSIR746575"
+}

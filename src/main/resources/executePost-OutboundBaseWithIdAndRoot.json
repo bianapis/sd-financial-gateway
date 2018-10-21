@@ -1,0 +1,11 @@
+{
+  "gatewayServiceSessionStatistics" : {},
+  "gatewayOutboundMessageRecord" : {},
+  "gatewayOutboundMessageSender" : "EBU746565",
+  "gatewayOutboundMessageReceiver" : "OMR736465",
+  "gatewayOutboundMessageStatus" : "pending",
+  "gatewayServiceReference" : "GSR724645735",
+  "gatewayOperatingSessionReference" : "GOSR746565",
+  "gatewayOutboundMessageType" : "urgent",
+  "gatewayOutboundMessageReference" : "OMR736465"
+}

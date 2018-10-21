@@ -1,0 +1,8 @@
+{
+  "gatewayServiceSessionStatistics" : {},
+  "gatewayServiceSessionReport" : {},
+  "gatewayServiceConfigurationParameter" : "gatewayServiceConfigurationParameter",
+  "gatewayServiceSessionReportReference" : "GSRR736465",
+  "gatewayOperatingSessionReference" : "GOSR746565",
+  "gatewayServiceSessionReportType" : "realtime status"
+}
